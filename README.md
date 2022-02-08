@@ -3,5 +3,7 @@
  ---
  [Пример моего тестового задания](https://docs.google.com/spreadsheets/d/1Abs6pFeBcAZzNrITSBtcLt6qWpYzyE-fGNzfGUhiw_w/edit?usp=sharing)
   ---
-  [Примеры моих баг-репортов](https://docs.google.com/spreadsheets/d/1R14TnuZECUKG_clDwV7OZ0YF8NuIRpIbuvbBYOYUjw0/edit?usp=sharing)(https://docs.google.com/spreadsheets/d/13Sq7IZ2cUNbcXQ-Trvjo_V9DNiLQe0uLxPwNPLsdS64/edit?usp=sharing)
+  [Баг-репорт 1](https://docs.google.com/spreadsheets/d/1R14TnuZECUKG_clDwV7OZ0YF8NuIRpIbuvbBYOYUjw0/edit?usp=sharing)
+    ---
+  [Баг-репорт 2](https://docs.google.com/spreadsheets/d/13Sq7IZ2cUNbcXQ-Trvjo_V9DNiLQe0uLxPwNPLsdS64/edit?usp=sharing)
   
