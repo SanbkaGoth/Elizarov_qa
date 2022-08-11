@@ -1,4 +1,6 @@
 # Elizarov_qa
+Here are some examples of test cases,  test tasks, and bug reports that I made while studying testing courses and during my job search.
+
 [Пример моих тест кейсов](https://docs.google.com/spreadsheets/d/1lo9gqUcQX7f8xgydTlP82kPPUczWRA9gD4xFjJrAwFs/edit?usp=sharing)
  --- 
 [Пример моего тестового задания](https://docs.google.com/spreadsheets/d/1Abs6pFeBcAZzNrITSBtcLt6qWpYzyE-fGNzfGUhiw_w/edit?usp=sharing)
