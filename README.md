@@ -3,9 +3,7 @@
 <div align="center">
 
   ![IMG](https://github.com/SanbkaGoth/Elizarov_qa/blob/main/bug4.JPG)  
-  style="max-width: 65%; 
-  
-  
+    
   </div>
 
   
