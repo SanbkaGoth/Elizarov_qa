@@ -12,7 +12,7 @@
     
  </div>
  
-<div align="right">
+<div align="justify">
 
 ![GIF](https://media.giphy.com/media/wwg1suUiTbCY8H8vIA/giphy.gif)
   
