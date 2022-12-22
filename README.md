@@ -15,9 +15,12 @@ Techniques and methods that I applied: prediction error, equivalence class, boun
  -
 ###### [Test Case](https://docs.google.com/spreadsheets/d/1lo9gqUcQX7f8xgydTlP82kPPUczWRA9gD4xFjJrAwFs/edit?usp=sharing)
  --- 
-# Several test cases and checklists made while studying at software testing courses.
-# **Test task from Mepart**
+ 
+ # **Test task from Mepart**
 ###### [Test task](https://docs.google.com/spreadsheets/d/1msTyqHB9uFo9RttX05Hd8HxoG3FqZwylyrP-TAUH19g/edit?usp=sharing)
+
+ --- 
+# Several test cases and checklists made while studying at software testing courses.
  --- 
 
 ###### [Test task_1](https://docs.google.com/spreadsheets/d/1Abs6pFeBcAZzNrITSBtcLt6qWpYzyE-fGNzfGUhiw_w/edit?usp=sharing)
