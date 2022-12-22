@@ -11,7 +11,12 @@
   ![GIF](https://media.giphy.com/media/wwg1suUiTbCY8H8vIA/giphy.gif)  
     
  </div>
+ 
+<div align="center">
 
+![GIF](https://media.giphy.com/media/l0K4n42JVSqqUvAQg/giphy.gif)
+  
+</div>
   
 
 #  Here are some examples of test cases,  test tasks, and bug reports that I made while studying testing courses and during my job search.
