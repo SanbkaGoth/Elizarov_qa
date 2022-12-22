@@ -13,11 +13,10 @@
 **I had to make several test cases for testing the kontur.ru search engine. 
 Techniques and methods that I applied: prediction error, equivalence class, boundary-value analysis, exploratory testing, black box testing.**
  -
- # **Test task from Mepart **
 ###### [Test Case](https://docs.google.com/spreadsheets/d/1lo9gqUcQX7f8xgydTlP82kPPUczWRA9gD4xFjJrAwFs/edit?usp=sharing)
  --- 
 # Several test cases and checklists made while studying at software testing courses.
-
+# **Test task from Mepart**
 ###### [Test task](https://docs.google.com/spreadsheets/d/1msTyqHB9uFo9RttX05Hd8HxoG3FqZwylyrP-TAUH19g/edit?usp=sharing)
  --- 
 
