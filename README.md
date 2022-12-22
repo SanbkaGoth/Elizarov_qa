@@ -57,7 +57,7 @@ Techniques and methods that I applied: prediction error, equivalence class, boun
 <img src="https://github.com/qajenna/qajenna/blob/main/icons/swagger.png" alt="Swagger" width="50" height="50" />
 </a>
 <a href="https://trello.com/">
-<img src="https://github.com/SanbkaGoth/Elizarov_qa/blob/main/trello.png" alt="Trello" width="75" height="75" />
+<img src="https://github.com/SanbkaGoth/Elizarov_qa/blob/main/trello.png" alt="Trello" width="50" height="50" />
 </a>
 <a href="https://developer.chrome.com/docs/devtools/">
 <img src="https://github.com/SanbkaGoth/Elizarov_qa/blob/main/dev.png" alt="DevTools" width="50" height="50" />
