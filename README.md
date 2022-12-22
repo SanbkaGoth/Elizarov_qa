@@ -1,17 +1,12 @@
 # Hi everyone! My name is Alexander, i am QA Engineer.   👨‍💻
 
  
- <div align="left">
+ <div align="center">
 
   ![IMG](https://github.com/SanbkaGoth/Elizarov_qa/blob/main/bug4.JPG)  
       
  </div>
  
-<div align="right">
-
-![GIF](https://media.giphy.com/media/9rtpurjbqiqZXbBBet/giphy.gif)
-  
-</div>
 
 #  Here are some examples of test cases,  test tasks, and bug reports that I made while studying testing courses and during my job search.
 
