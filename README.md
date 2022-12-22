@@ -3,7 +3,10 @@
 <div align="center">
 
 ![IMG](https://github.com/SanbkaGoth/Elizarov_qa/blob/main/bug4.JPG)  
-  style="max-width: 65%;
+  style="max-width: 65%; 
+  
+  </div>
+
   
 
 #  Here are some examples of test cases,  test tasks, and bug reports that I made while studying testing courses and during my job search.
