@@ -54,7 +54,7 @@ Techniques and methods that I applied: prediction error, equivalence class, boun
 ## Techniques and methods that I applied: prediction error, equivalence class, boundary-value analysis, exploratory testing, black box testing,  usability and UX testing.
 ###### [Bug report_3](https://docs.google.com/spreadsheets/d/1sfmDgR9ERE3C0OY5S9FsTZuj9k9egvNF71npjyVGwrg/edit?usp=sharing) 
  --- 
-  # **World of Warcraft Game bug report** 
+  # **[World of Warcraft Game bug report]** (https://docs.google.com/spreadsheets/d/1BKPKcVMloK62ReUQbXEMcEqHvqwV-Rh7JOulxFvI23Y/edit?usp=sharing) 
 ## Techniques and methods that I applied: prediction error, equivalence class, boundary-value analysis, exploratory testing, black box testing,  usability and UX testing.
 ###### [Bug report_4](https://docs.google.com/spreadsheets/d/1BKPKcVMloK62ReUQbXEMcEqHvqwV-Rh7JOulxFvI23Y/edit?usp=sharing) 
  --- 
