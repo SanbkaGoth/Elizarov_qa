@@ -1,9 +1,10 @@
 # Hi everyone! My name is Alexander, i am QA Engineer.   👨‍💻
 
 <div align="center">
-
+<p>
 ![IMG](https://github.com/SanbkaGoth/Elizarov_qa/blob/main/bug4.JPG)  
   style="max-width: 65%; 
+  </p>
   
   </div>
 
