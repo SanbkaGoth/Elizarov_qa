@@ -12,9 +12,9 @@
     
  </div>
  
-<div align="center">
+<div align="right">
 
-![GIF](https://media.giphy.com/media/l0K4n42JVSqqUvAQg/giphy.gif)
+![GIF](https://media.giphy.com/media/wwg1suUiTbCY8H8vIA/giphy.gif)
   
 </div>
   
