@@ -9,7 +9,7 @@
  
 <div align="justify">
 
-![GIF](https://media.giphy.com/media/wwg1suUiTbCY8H8vIA/giphy.gif)
+![GIF](https://media.giphy.com/media/JUji554QwdXwAuYkhP/giphy.gif)
   
 </div>
 
