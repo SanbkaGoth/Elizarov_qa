@@ -14,7 +14,7 @@
 </div>
 
   <div id="header" align="center">
-  <img src="https://media.giphy.com/media/wwg1suUiTbCY8H8vIA/giphy.gif" width="100"/>
+  <img src="https://media.giphy.com/media/JUji554QwdXwAuYkhP/giphy.gif" width="100"/>
 </div>
 
 #  Here are some examples of test cases,  test tasks, and bug reports that I made while studying testing courses and during my job search.
