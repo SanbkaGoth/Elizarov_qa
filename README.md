@@ -33,14 +33,30 @@ Techniques and methods that I applied: prediction error, equivalence class, boun
  
 ###### [Test task_3](https://docs.google.com/spreadsheets/d/1wU6UH5AdS-Dhe0Rkw7xDjyHswfIbxSChTrbfIPmrbkY/edit?usp=sharing)
  ---
-# **Bug report for the game Idol Dance** 
+ # **Test task from IceRockDev** 
+ 
+###### [Test task_4](https://docs.google.com/spreadsheets/d/1NovrijII2ehsxUOPXZVLoDvJ--xScg4EYELzYIv6TY4/edit?usp=sharing)
+ ---
+  # **Test task from Saber Interactive. .kkrieger Bug report** 
+ 
+###### [Test task_5](https://docs.google.com/spreadsheets/d/128Q-UxeRUv5w43addKDI5BlhABvUetlJxxPj5iKmNXk/edit#gid=556319423)
+ ---
+# **Idol Dance Game bug report** 
 ## Techniques and methods that I applied: prediction error, equivalence class, boundary-value analysis, exploratory testing, black box testing, usability and UX testing.
 
  ###### [Bug report_1](https://docs.google.com/spreadsheets/d/1R14TnuZECUKG_clDwV7OZ0YF8NuIRpIbuvbBYOYUjw0/edit?usp=sharing)
  --- 
-# **Bug report for the game Вега Микс** 
+# **Вега Микс Game bug report** 
 ## Techniques and methods that I applied: prediction error, equivalence class, boundary-value analysis, exploratory testing, black box testing,  usability and UX testing.
 ###### [Bug report_2](https://docs.google.com/spreadsheets/d/13Sq7IZ2cUNbcXQ-Trvjo_V9DNiLQe0uLxPwNPLsdS64/edit?usp=sharing) 
+ --- 
+ # **Bug report for the AirSoft** 
+## Techniques and methods that I applied: prediction error, equivalence class, boundary-value analysis, exploratory testing, black box testing,  usability and UX testing.
+###### [Bug report_3](https://docs.google.com/spreadsheets/d/1sfmDgR9ERE3C0OY5S9FsTZuj9k9egvNF71npjyVGwrg/edit?usp=sharing) 
+ --- 
+  # **World of Warcraft Game bug report** 
+## Techniques and methods that I applied: prediction error, equivalence class, boundary-value analysis, exploratory testing, black box testing,  usability and UX testing.
+###### [Bug report_4](https://docs.google.com/spreadsheets/d/1BKPKcVMloK62ReUQbXEMcEqHvqwV-Rh7JOulxFvI23Y/edit?usp=sharing) 
  --- 
  
  
