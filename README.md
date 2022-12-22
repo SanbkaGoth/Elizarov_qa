@@ -3,14 +3,10 @@
 <div align="left">
 
   ![IMG](https://github.com/SanbkaGoth/Elizarov_qa/blob/main/bug4.JPG)  
+  ![GIF](https://media.giphy.com/media/wwg1suUiTbCY8H8vIA/giphy.gif)
     
  </div>
  
-  <div align="right">
-
-  ![GIF](https://media.giphy.com/media/wwg1suUiTbCY8H8vIA/giphy.gif)  
-    
- </div>
  
 <div align="justify">
 
