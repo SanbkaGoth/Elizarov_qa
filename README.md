@@ -8,7 +8,7 @@
 
   ## My CV 
 
-[Here is my resume](https://krasnoyarsk.hh.ru/applicant/resumes?hhtmFrom=vacancy_search_list&hhtmFromLabel=header)
+[Link on CV](https://krasnoyarsk.hh.ru/applicant/resumes?hhtmFrom=vacancy_search_list&hhtmFromLabel=header)
 
 #  Here are some examples of test cases,  test tasks, and bug reports that I made while studying testing courses and during my job search.
 
