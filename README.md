@@ -5,14 +5,14 @@
   ![IMG](https://github.com/SanbkaGoth/Elizarov_qa/blob/main/bug4.JPG)  
     
  </div>
-  
-  ![GIF]https://media.giphy.com/media/wwg1suUiTbCY8H8vIA/giphy.gif
+ 
+  <div align="rifht">
 
-    </div>
+  ![GIF](https://media.giphy.com/media/wwg1suUiTbCY8H8vIA/giphy.gif)  
     
-    <div id="header" align="right">
-  <img src="https://media.giphy.com/media/wwg1suUiTbCY8H8vIA/giphy.gif"/>
-</div>
+ </div>
+
+  
 
 #  Here are some examples of test cases,  test tasks, and bug reports that I made while studying testing courses and during my job search.
 
