@@ -6,9 +6,7 @@
     
   </div>
 
-  ## My CV 
-
-[Link on CV](https://krasnoyarsk.hh.ru/applicant/resumes?hhtmFrom=vacancy_search_list&hhtmFromLabel=header)
+  
 
 #  Here are some examples of test cases,  test tasks, and bug reports that I made while studying testing courses and during my job search.
 
@@ -39,6 +37,36 @@ Techniques and methods that I applied: prediction error, equivalence class, boun
 ###### [Bug report_2](https://docs.google.com/spreadsheets/d/13Sq7IZ2cUNbcXQ-Trvjo_V9DNiLQe0uLxPwNPLsdS64/edit?usp=sharing) 
  --- 
  
+ 
+ ## Tolls & Technologies
+ <p align="left">
+<a href="https://qase.io/">
+<a href="https://www.atlassian.com/software/jira">
+<img src="https://github.com/qajenna/qajenna/blob/main/icons/Jira.png" alt="Jira" width="50" height="50" />
+</a>
+<a href="https://www.charlesproxy.com/">
+<img src="https://github.com/qajenna/qajenna/blob/main/icons/Charles.png" alt="Charles" width="50" height="50" />
+</a>
+<a href="https://www.telerik.com/fiddler">
+<img src="https://github.com/qajenna/qajenna/blob/main/icons/Fiddler.png" alt="Fiddler" width="50" height="50" /> 
+</a>
+<a href="https://www.postman.com/">
+<img src="https://github.com/qajenna/qajenna/blob/main/icons/Postman.png" alt="Postman" width="50" height="50" />
+</a>
+<a href="https://swagger.io/">
+<img src="https://github.com/qajenna/qajenna/blob/main/icons/swagger.png" alt="Swagger" width="50" height="50" />
+</a>
+<a href="https://trello.com/">
+<img src="https://github.com/SanbkaGoth/Elizarov_qa/blob/main/trello.png" alt="Trello" width="50" height="50" />
+</a>
+<a href="https://developer.chrome.com/docs/devtools/">
+<img src="https://github.com/SanbkaGoth/Elizarov_qa/blob/main/dev.png" alt="DevTools" width="50" height="50" />
+</a>
+<a href="https://dbeaver.io/">
+<img src="https://github.com/qajenna/qajenna/blob/main/icons/DBeaver.png" alt="DBeaver" width="50" height="50" />
+</a>
+</p>
+
 
 
  
