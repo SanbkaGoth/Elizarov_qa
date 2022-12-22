@@ -69,5 +69,8 @@ Techniques and methods that I applied: prediction error, equivalence class, boun
 
 
 
- 
+ ## My contact information
+
+[![Linkedin: Alexander Elizarov](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/alexander-elizarov-76b64421b/)
+[![Telegram SanbkaGoth](https://img.shields.io/badge/-Telegram-0088cc?style=flat-square&logo=Telegram&logoColor=white)](https://t.me/SanbkaGoth)
 
