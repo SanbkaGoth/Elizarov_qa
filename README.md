@@ -6,7 +6,7 @@
     
  </div>
  
-  <div align="rifht">
+  <div align="right">
 
   ![GIF](https://media.giphy.com/media/wwg1suUiTbCY8H8vIA/giphy.gif)  
     
