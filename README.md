@@ -16,39 +16,30 @@ Techniques and methods that I applied: prediction error, equivalence class, boun
 ###### [Test Case](https://docs.google.com/spreadsheets/d/1lo9gqUcQX7f8xgydTlP82kPPUczWRA9gD4xFjJrAwFs/edit?usp=sharing)
  --- 
  
- # **Test task from Mepart**
-###### [Test task](https://docs.google.com/spreadsheets/d/1msTyqHB9uFo9RttX05Hd8HxoG3FqZwylyrP-TAUH19g/edit?usp=sharing)
-
+ # **[Test task from Mepart](https://docs.google.com/spreadsheets/d/1msTyqHB9uFo9RttX05Hd8HxoG3FqZwylyrP-TAUH19g/edit?usp=sharing)**
  --- 
 # Several test cases and checklists made while studying at software testing courses.
  --- 
 
-###### [Test task_1](https://docs.google.com/spreadsheets/d/1Abs6pFeBcAZzNrITSBtcLt6qWpYzyE-fGNzfGUhiw_w/edit?usp=sharing)
+###### [1. Test task](https://docs.google.com/spreadsheets/d/1Abs6pFeBcAZzNrITSBtcLt6qWpYzyE-fGNzfGUhiw_w/edit?usp=sharing)
  --- 
  
-# **Test task from Welltory**
-###### [Test task_2](https://docs.google.com/spreadsheets/d/1ZUnCIMzJWAfE9o8cvEMHL8iHeRqorE21X-KGBGkvKZA/edit?usp=sharing)
+# **[2. Test task from Welltory](https://docs.google.com/spreadsheets/d/1ZUnCIMzJWAfE9o8cvEMHL8iHeRqorE21X-KGBGkvKZA/edit?usp=sharing)**
  ---
-# **Test task from Lasmart** 
- 
-###### [Test task_3](https://docs.google.com/spreadsheets/d/1wU6UH5AdS-Dhe0Rkw7xDjyHswfIbxSChTrbfIPmrbkY/edit?usp=sharing)
+# **[3. Test task from Lasmart](https://docs.google.com/spreadsheets/d/1wU6UH5AdS-Dhe0Rkw7xDjyHswfIbxSChTrbfIPmrbkY/edit?usp=sharing)** 
  ---
- # **Test task from IceRockDev** 
- 
-###### [Test task_4](https://docs.google.com/spreadsheets/d/1NovrijII2ehsxUOPXZVLoDvJ--xScg4EYELzYIv6TY4/edit?usp=sharing)
- ---
-  # **Test task from Saber Interactive. .kkrieger Bug report** 
- 
-###### [Test task_5](https://docs.google.com/spreadsheets/d/128Q-UxeRUv5w43addKDI5BlhABvUetlJxxPj5iKmNXk/edit#gid=556319423)
- ---
+ # **[4. Test task from IceRockDev](https://docs.google.com/spreadsheets/d/1NovrijII2ehsxUOPXZVLoDvJ--xScg4EYELzYIv6TY4/edit?usp=sharing)** 
+  ---
+  # **[5. Test task from Saber Interactive. .kkrieger Bug report](https://docs.google.com/spreadsheets/d/128Q-UxeRUv5w43addKDI5BlhABvUetlJxxPj5iKmNXk/edit#gid=556319423)** 
+  ---
 # **[Idol Dance Game bug report](https://docs.google.com/spreadsheets/d/1R14TnuZECUKG_clDwV7OZ0YF8NuIRpIbuvbBYOYUjw0/edit?usp=sharing)** 
 ## Techniques and methods that I applied: prediction error, equivalence class, boundary-value analysis, exploratory testing, black box testing, usability and UX testing.
 
  --- 
-# **[Вега Микс Game bug report](https://docs.google.com/spreadsheets/d/13Sq7IZ2cUNbcXQ-Trvjo_V9DNiLQe0uLxPwNPLsdS64/edit?usp=sharing) ** 
+# **[Вега Микс Game bug report](https://docs.google.com/spreadsheets/d/13Sq7IZ2cUNbcXQ-Trvjo_V9DNiLQe0uLxPwNPLsdS64/edit?usp=sharing)** 
 ## Techniques and methods that I applied: prediction error, equivalence class, boundary-value analysis, exploratory testing, black box testing,  usability and UX testing.
  --- 
- # **[Bug report for the AirSoft](https://docs.google.com/spreadsheets/d/1sfmDgR9ERE3C0OY5S9FsTZuj9k9egvNF71npjyVGwrg/edit?usp=sharing) ** 
+ # **[Bug report for the AirSoft](https://docs.google.com/spreadsheets/d/1sfmDgR9ERE3C0OY5S9FsTZuj9k9egvNF71npjyVGwrg/edit?usp=sharing)** 
 ## Techniques and methods that I applied: prediction error, equivalence class, boundary-value analysis, exploratory testing, black box testing,  usability and UX testing.
  --- 
   # **[World of Warcraft Game bug report](https://docs.google.com/spreadsheets/d/1BKPKcVMloK62ReUQbXEMcEqHvqwV-Rh7JOulxFvI23Y/edit?usp=sharing)** 
